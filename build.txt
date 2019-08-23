@@ -1,0 +1,4 @@
+displayName = AutoBuffCalamity
+author = Lanboost
+version = 1.0
+modReferences = AutoBuff
