@@ -1,1 +1,1 @@
-AutoBuffCalamity is a addon for AutoBuff that enables the potions from Calamity
+Extension of the mod Lan's Toggleable Buffs but for the mod Calamity!

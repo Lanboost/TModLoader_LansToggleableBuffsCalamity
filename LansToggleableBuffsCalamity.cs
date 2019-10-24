@@ -1,13 +1,13 @@
 using System.Collections.Generic;
 using Terraria.ModLoader;
-using AutoBuff;
+using LansToggleableBuffs;
 
-namespace AutoBuffCalamity
+namespace LansToggleableBuffsCalamity
 {
-	public class AutoBuffCalamity : Mod
+	public class LansToggleableBuffsCalamity : Mod
 	{
 
-		string saveTag = "AutoBuffCalamity";
+		string saveTag = "LansToggleableBuffsCalamity";
 
 		string[,] buffs = new string[,]
 		{
@@ -36,7 +36,7 @@ namespace AutoBuffCalamity
 		};
 
 
-		public AutoBuffCalamity()
+		public LansToggleableBuffsCalamity()
 		{
 		}
 

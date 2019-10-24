@@ -1,4 +1,7 @@
-displayName = AutoBuffCalamity
+displayName = Lan's Toggleable Buffs Calamity
 author = Lanboost
-version = 1.0
-modReferences = AutoBuff
+version = 0.1
+modReferences = LansToggleableBuffs
+includePDB = true
+includeSource = true
+homepage = https://github.com/Lanboost/TModLoader_LansToggleableBuffsCalamity
