@@ -44,7 +44,7 @@ namespace LansToggleableBuffsCalamity
 		{
 			base.PostSetupContent();
 
-			var buffMod = ModLoader.GetMod("AutoBuff");
+			var buffMod = ModLoader.GetMod("LansToggleableBuffs");
 			if (buffMod != null)
 			{
 				var mod = ModLoader.GetMod("CalamityMod");

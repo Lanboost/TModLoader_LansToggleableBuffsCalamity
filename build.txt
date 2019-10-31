@@ -1,6 +1,6 @@
 displayName = Lan's Toggleable Buffs Calamity
 author = Lanboost
-version = 0.2
+version = 0.2.1
 modReferences = LansToggleableBuffs
 includePDB = true
 includeSource = true
